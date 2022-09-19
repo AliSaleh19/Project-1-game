@@ -58,6 +58,8 @@ add boundaries and restrictions to the game that will result in a game over (for
 
 lastly add a stop watcch feature that tracks how long the game has been and a function that tracks the score
 
+<img width="524" alt="Screen Shot 2022-09-19 at 1 03 34 PM 2" src="https://user-images.githubusercontent.com/96163269/191091432-13165096-d999-46bd-b069-c6bb40371930.png"><img width="511" alt="Screen Shot 2022-09-18 at 8 57 12 PM 2" src="https://user-images.githubusercontent.com/96163269/191091457-a608f369-8d22-42bc-b29e-65e80a21f5fc.png">
+
 
 
 
