@@ -33,6 +33,21 @@ In the game of Snake the player uses the arrow keys or AWDS to move a "snake" ar
 Second game idea make a sudoku board game using only html,css,JS
 
 
+functions to be made 
+
+const gameBoard
+const score
+cosnt resetbutton
+const snake
+
+functions for the following
+
+function gamestart
+function reset or clear board
+function createfood
+
+
+
 
 
 
