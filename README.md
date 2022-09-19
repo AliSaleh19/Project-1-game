@@ -6,7 +6,7 @@ snake game planning
 
 -have the rules displayed at the bottom of the game board
 
--build a start game button ( thata also functions as a restart button)
+-build a start game button ( that also functions as a restart button)
 
 -build a snake character that moves with AWDS keys and arrows 
 
